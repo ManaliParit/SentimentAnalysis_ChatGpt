@@ -1,5 +1,5 @@
 # SentimentAnalysis_ChatGpt
-Sentiment Analysis and Automatic reply using ChatGpt Promt
+Sentiment Analysis and Automatic reply using ChatGpt Prompt
 
 Steps:
 1) Extraction of Reviews from Google Play Store using google-play-scraper
